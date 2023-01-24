@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<opml version="1.0">
-  <head>
-    <title>Feeds of rogeryoungh from Inoreader [https://www.inoreader.com]</title>
-  </head>
-  <body>
-    <outline text="dev" title="dev">
-      <outline text="Awesome Rust Weekly" title="Awesome Rust Weekly" type="rss" xmlUrl="https://rust.libhunt.com/newsletter/feed" htmlUrl="https://rust.libhunt.com/newsletter/feed"/>
-      <outline text="This Week in Rust" title="This Week in Rust" type="rss" xmlUrl="http://this-week-in-rust.org/atom.xml" htmlUrl="http://this-week-in-rust.org/"/>
-    </outline>
-    <outline text="其他" title="其他">
-      <outline text="逆风笑" title="逆风笑" type="rss" xmlUrl="https://rsshub.app/bilibili/user/dynamic/2019740" htmlUrl="https://space.bilibili.com/2019740"/>
-      <outline text="rogeryoungh" title="rogeryoungh" type="rss" xmlUrl="https://acm.rogery.dev/index.xml" htmlUrl="https://acm.rogery.dev/"/>
-    </outline>
-  </body>
-</opml>
+<?xml version="1.0" encoding="UTF-8"?><opml version="1.0"><head><title>Fluent Reader Export</title></head><body><outline text="dev" title="dev"><outline text="Awesome Rust Weekly" title="Awesome Rust Weekly" type="rss" xmlUrl="https://rust.libhunt.com/newsletter/feed"/><outline text="This Week in Rust" title="This Week in Rust" type="rss" xmlUrl="http://this-week-in-rust.org/atom.xml"/></outline><outline text="其他" title="其他"><outline text="rogeryoungh" title="rogeryoungh" type="rss" xmlUrl="https://acm.rogery.dev/index.xml"/><outline text="逆风笑" title="逆风笑" type="rss" xmlUrl="https://rsshub.app/bilibili/user/dynamic/2019740"/></outline><outline text="B 站" title="B 站"><outline text="伊不知二不慧 的 bilibili 动态" title="伊不知二不慧 的 bilibili 动态" type="rss" xmlUrl="https://rsshub.app/bilibili/user/dynamic/487463104"/><outline text="极客湾Geekerwan 的 bilibili 动态" title="极客湾Geekerwan 的 bilibili 动态" type="rss" xmlUrl="https://rsshub.app/bilibili/user/dynamic/25876945"/></outline><outline text="博客" title="博客"><outline text="StandNotAlone的博客" title="StandNotAlone的博客" type="rss" xmlUrl="https://blog.csdn.net/StandNotAlone/rss/list?spm=1001.2014.3001.5494"/><outline text="博客园 - ViKyanite" title="博客园 - ViKyanite" type="rss" xmlUrl="https://www.cnblogs.com/Vikyanite/rss"/></outline></body></opml>
