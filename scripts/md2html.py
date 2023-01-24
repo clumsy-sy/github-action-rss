@@ -6,7 +6,7 @@ import sys
 import shutil
 import requests
 
-base_url = 'https://rogeryoungh.github.io/github-action-rss'
+base_url = 'https://clumsy-sy.github.io/github-action-rss'
 
 gh_rss = requests.get(
     'https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/github-markdown-css/5.1.0/github-markdown.min.css')
